@@ -1,0 +1,478 @@
+#TITLE:Testify
+#ARTIST:Rage Against The Machine
+#LANGUAGE:English
+#GENRE:None
+#YEAR:1999
+#CREATOR:livewireau
+#MP3:Rage Against The Machine - Testify.m4a
+#COVER:Rage Against The Machine - Testify [CO].jpg
+#BACKGROUND:Rage Against The Machine - Testify [BG].jpg
+#VIDEO:Rage Against The Machine - Testify.mp4
+#BPM:399.91
+#GAP:16710
+F 0 8 0 Uh 
+- 10
+F 423 4 0 The 
+F 430 6 0 mov
+F 437 7 0 ie 
+F 451 6 0 ran 
+F 458 5 0 through 
+F 465 7 0 me 
+- 474
+F 478 4 0 The 
+F 485 5 0 glam
+F 492 6 0 our 
+F 506 4 0 sub
+F 513 6 0 dued 
+F 520 7 0 me 
+- 529
+F 532 3 0 The 
+F 539 4 0 tab
+F 547 10 0 loid 
+F 561 3 0 un
+F 567 6 0 tied 
+F 575 6 0 me 
+- 583
+F 587 5 0 I’m 
+F 594 3 0 emp
+F 601 7 0 ty 
+F 614 4 0 please 
+F 623 5 0 fill 
+F 630 7 0 me 
+- 639
+F 642 3 0 Mis
+F 646 2 0 ter 
+F 649 4 0 an
+F 656 6 0 chor 
+F 668 4 0 as
+F 676 5 0 sure 
+F 682 7 0 me 
+- 691
+F 696 4 0 That 
+F 702 5 0 Bagh
+F 710 7 0 dad 
+F 723 5 0 is 
+F 730 5 0 burn
+F 738 6 0 ing 
+- 746
+F 750 4 0 Your 
+F 757 5 0 voice 
+F 764 2 0 it 
+F 767 6 0 is 
+F 778 4 0 so 
+F 785 5 0 sooth
+F 792 6 0 ing 
+- 800
+F 805 4 0 That 
+F 811 5 0 cun
+F 817 3 0 ning 
+F 822 4 0 man
+F 827 3 0 tra 
+F 831 3 0 of 
+F 838 6 0 kill
+F 845 7 0 ing 
+- 854
+F 859 5 0 I 
+F 865 4 0 need 
+F 872 7 0 you 
+F 886 6 0 my 
+F 893 4 0 wit
+F 900 5 0 ness 
+- 907
+F 913 4 0 To 
+F 920 6 0 dress 
+F 927 2 0 this 
+F 932 3 0 up 
+F 942 4 0 so 
+F 948 4 0 blood
+F 955 5 0 less 
+- 962
+F 968 4 0 To 
+F 974 5 0 numb 
+F 981 7 0 me 
+F 994 5 0 and 
+F 1002 5 0 purge 
+F 1009 3 0 me 
+F 1015 6 0 now 
+- 1022
+F 1022 4 0 Of 
+F 1029 4 0 thoughts 
+F 1035 4 0 of 
+F 1042 4 0 blam
+F 1047 4 0 ing 
+F 1052 10 0 you 
+- 1064
+F 1069 4 0 Yes 
+F 1076 4 0 the 
+F 1083 6 0 car 
+F 1091 6 0 is 
+F 1104 5 0 our 
+F 1111 5 0 wheel
+F 1119 6 0 chair 
+- 1127
+F 1131 5 0 My 
+F 1138 5 0 wit
+F 1145 5 0 ness 
+F 1158 5 0 your 
+F 1166 5 0 cough
+F 1173 5 0 ing 
+- 1179
+F 1179 5 0 Oil
+F 1186 4 0 y 
+F 1193 5 0 si
+F 1199 3 0 lence 
+F 1206 4 0 mocks 
+F 1213 2 0 the 
+F 1216 5 0 leg
+F 1224 5 0 less 
+F 1234 4 0 ones 
+- 1240
+F 1241 4 0 Who 
+F 1248 4 0 trav
+F 1253 3 0 el 
+F 1258 8 0 now 
+F 1267 4 0 in 
+F 1274 5 0 cof
+F 1282 4 0 fins 
+F 1288 5 0 on 
+F 1295 4 0 the 
+F 1302 6 0 cor
+F 1309 5 0 ner 
+- 1316
+F 1336 4 0 The 
+F 1344 4 0 ju
+F 1349 4 0 ry’s 
+F 1357 5 0 sleep
+F 1364 8 0 less 
+- 1374
+F 1390 5 0 We 
+F 1398 5 0 found 
+F 1405 5 0 your 
+F 1411 5 0 weak
+F 1418 7 0 ness 
+- 1427
+F 1451 5 0 And 
+F 1457 4 0 it’s 
+F 1465 5 0 right 
+F 1471 4 0 out
+F 1479 5 0 side 
+F 1486 3 0 your 
+F 1490 7 0 door 
+F 1499 4 0 now 
+F 1506 3 0 tes
+F 1512 3 0 ti
+F 1517 12 0 fy 
+- 1531
+F 1607 6 0 Now 
+F 1616 4 0 tes
+F 1623 3 0 ti
+F 1628 13 0 fy 
+- 1643
+F 1679 4 0 It’s 
+F 1685 4 0 right 
+F 1690 3 0 out
+F 1699 5 0 side 
+F 1705 2 0 your 
+F 1709 7 0 door 
+F 1719 3 0 now 
+F 1726 4 0 tes
+F 1733 2 0 ti
+F 1737 13 0 fy 
+- 1752
+F 1828 4 0 Yes 
+F 1835 5 0 tes
+F 1842 3 0 ti
+F 1847 13 0 fy 
+- 1862
+F 1896 4 0 It’s 
+F 1905 2 0 right 
+F 1908 4 0 out
+F 1917 4 0 side 
+F 1924 3 0 your 
+F 1928 11 0 door 
+- 1941
+F 1945 4 0 With 
+F 1952 3 0 pre
+F 1959 4 0 ci
+F 1966 6 0 sion 
+F 1980 4 0 you 
+F 1987 4 0 feed 
+F 1994 7 0 me 
+F 2007 6 0 my 
+F 2014 4 0 wit
+F 2021 5 0 ness 
+F 2034 5 0 I’m 
+F 2041 4 0 hun
+F 2048 7 0 gry 
+- 2057
+F 2061 5 0 Your 
+F 2068 5 0 tem
+F 2075 7 0 ple 
+F 2088 4 0 it 
+F 2095 6 0 calms 
+F 2104 6 0 me 
+F 2117 4 0 so 
+F 2123 4 0 I 
+F 2129 4 0 can 
+F 2137 4 0 car
+F 2143 4 0 ry 
+F 2148 9 0 on 
+- 2159
+F 2171 4 0 My 
+F 2179 5 0 slav
+F 2186 6 0 ing 
+F 2206 6 0 sweat
+F 2213 6 0 ing 
+F 2226 3 0 the 
+F 2234 3 0 skin 
+F 2238 4 0 right 
+F 2244 4 0 off 
+F 2251 4 0 my 
+F 2258 7 0 bones 
+- 2266
+F 2267 3 0 On 
+F 2271 2 0 a 
+F 2275 5 0 bed 
+F 2281 3 0 of 
+F 2288 6 0 fi
+F 2295 6 0 re 
+F 2308 4 0 I’m 
+F 2315 5 0 chok
+F 2323 6 0 ing 
+F 2336 1 0 on 
+F 2338 2 0 the 
+F 2343 4 0 smoke 
+F 2350 4 0 that 
+F 2357 4 0 fills 
+F 2364 5 0 my 
+F 2370 10 0 home 
+- 2382
+F 2391 4 0 The 
+F 2398 3 0 wreck
+F 2403 3 0 ing 
+F 2408 8 0 ball 
+F 2419 4 0 is 
+F 2426 5 0 rush
+F 2433 6 0 ing 
+- 2441
+F 2451 5 0 Wit
+F 2458 4 0 ness 
+F 2471 4 0 your 
+F 2478 4 0 blush
+F 2486 7 0 ing 
+- 2495
+F 2499 4 0 The 
+F 2505 5 0 pipe
+F 2512 7 0 line 
+F 2526 4 0 is 
+F 2533 4 0 gush
+F 2540 6 0 ing 
+- 2548
+F 2553 6 0 While 
+F 2560 3 0 here 
+F 2565 3 0 we 
+F 2570 6 0 lie 
+F 2577 4 0 in 
+F 2585 8 0 tombs 
+F 2595 6 0 while 
+F 2602 5 0 on 
+F 2609 3 0 the 
+F 2615 6 0 cor
+F 2623 5 0 ner 
+- 2630
+F 2648 5 0 The 
+F 2655 6 0 ju
+F 2663 3 0 ry’s 
+F 2670 5 0 sleep
+F 2677 5 0 less 
+- 2684
+F 2703 4 0 We 
+F 2709 5 0 found 
+F 2717 4 0 your 
+F 2723 5 0 weak
+F 2730 5 0 ness 
+- 2737
+F 2767 3 0 And 
+F 2771 3 0 it’s 
+F 2779 3 0 right 
+F 2783 5 0 out
+F 2792 5 0 side 
+F 2799 2 0 your 
+F 2803 7 0 door 
+F 2812 6 0 now 
+F 2819 4 0 tes
+F 2825 2 0 ti
+F 2830 13 0 fy 
+- 2845
+F 2920 6 0 Yeah 
+F 2928 5 0 tes
+F 2935 3 0 ti
+F 2941 12 0 fy 
+- 2955
+F 2989 5 0 It’s 
+F 2997 3 0 right 
+F 3001 4 0 out
+F 3011 4 0 side 
+F 3017 2 0 your 
+F 3021 8 0 door 
+F 3030 4 0 now 
+F 3038 4 0 tes
+F 3044 3 0 ti
+F 3049 11 0 fy 
+- 3062
+F 3140 4 0 Now 
+F 3147 5 0 tes
+F 3154 3 0 ti
+F 3159 14 0 fy 
+- 3175
+F 3207 1 0 When 
+F 3209 3 0 it’s 
+F 3216 4 0 right 
+F 3221 4 0 out
+F 3231 4 0 side 
+F 3237 3 0 your 
+F 3242 13 0 door 
+- 3257
+F 3263 4 0 Mass 
+F 3270 4 0 graves 
+F 3278 2 0 for 
+F 3281 2 0 the 
+F 3284 5 0 pump 
+F 3291 3 0 and 
+F 3295 2 0 the 
+F 3298 5 0 price 
+F 3304 3 0 is 
+F 3311 5 0 set 
+- 3318
+F 3331 3 0 And 
+F 3335 2 0 the 
+F 3338 5 0 price 
+F 3344 4 0 is 
+F 3352 5 0 set 
+- 3359
+F 3371 7 0 Mass 
+F 3379 5 0 graves 
+F 3386 1 0 for 
+F 3388 2 0 the 
+F 3391 4 0 pump 
+F 3398 2 0 and 
+F 3401 3 0 the 
+F 3406 4 0 price 
+F 3411 3 0 is 
+F 3418 5 0 set 
+- 3425
+F 3438 2 0 And 
+F 3441 3 0 the 
+F 3446 3 0 price 
+F 3450 3 0 is 
+F 3458 6 0 set 
+- 3466
+F 3478 5 0 Mass 
+F 3485 5 0 graves 
+F 3491 2 0 for 
+F 3494 2 0 the 
+F 3498 5 0 pump 
+F 3505 2 0 and 
+F 3508 3 0 the 
+F 3512 4 0 price 
+F 3517 4 0 is 
+F 3525 5 0 set 
+- 3532
+F 3544 3 0 And 
+F 3548 2 0 the 
+F 3551 6 0 price 
+F 3558 3 0 is 
+F 3564 4 0 set 
+- 3570
+F 3583 6 0 Mass 
+F 3591 4 0 graves 
+F 3598 1 0 for 
+F 3600 2 0 the 
+F 3604 5 0 pump 
+F 3611 2 0 and 
+F 3614 2 0 the 
+F 3618 5 0 price 
+F 3624 3 0 is 
+F 3631 6 0 set 
+- 3639
+F 3650 2 0 And 
+F 3653 2 0 the 
+F 3657 5 0 price 
+F 3664 3 0 is 
+F 3670 6 0 set 
+- 3678
+F 4125 6 0 Who 
+F 4132 3 0 con
+F 4139 5 0 trols 
+F 4145 3 0 the 
+F 4152 9 0 past 
+F 4165 11 0 now 
+F 4185 4 0 con
+F 4192 5 0 trols 
+F 4199 4 0 the 
+F 4206 4 0 fu
+F 4213 10 0 ture 
+- 4225
+F 4231 5 0 Who 
+F 4238 4 0 con
+F 4245 4 0 trols 
+F 4252 4 0 the 
+F 4259 6 0 pre
+F 4266 5 0 sent 
+F 4272 12 0 now 
+F 4292 3 0 con
+F 4298 5 0 trols 
+F 4306 3 0 the 
+F 4312 12 0 past 
+- 4326
+F 4336 4 0 Who 
+F 4343 4 0 con
+F 4350 5 0 trols 
+F 4357 4 0 the 
+F 4363 8 0 past 
+F 4377 12 0 now 
+F 4397 4 0 con
+F 4404 5 0 trols 
+F 4410 4 0 the 
+F 4417 4 0 fu
+F 4423 10 0 ture 
+- 4435
+F 4443 4 0 Who 
+F 4449 3 0 con
+F 4456 5 0 trols 
+F 4463 3 0 the 
+F 4469 6 0 pre
+F 4477 4 0 sent 
+F 4483 16 0 now? 
+- 4501
+F 4529 5 0 Now 
+F 4536 4 0 tes
+F 4543 3 0 ti
+F 4549 14 0 fy 
+- 4565
+F 4644 4 0 Tes
+F 4650 3 0 ti
+F 4656 15 0 fy 
+- 4673
+F 4704 4 0 It’s 
+F 4711 4 0 right 
+F 4716 3 0 out
+F 4725 5 0 side 
+F 4732 4 0 your 
+F 4737 6 0 door 
+F 4746 3 0 now 
+F 4753 4 0 tes
+F 4759 3 0 ti
+F 4766 13 0 fy 
+- 4781
+F 4861 4 0 Tes
+F 4868 3 0 ti
+F 4874 16 0 fy 
+- 4892
+F 4922 5 0 It’s 
+F 4931 5 0 right 
+F 4937 4 0 out
+F 4946 5 0 side 
+F 4953 3 0 your 
+F 4960 14 0 door 
+E
